@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clean Home</string>
+    <string name="home_service_label">Clean Home – כפתור הבית</string>
+    <string name="home_service_description">כשהשירות פועל, כפתור הבית בשלט פותח את Clean Home במקום את מסך הבית של Google TV.</string>
+</resources>
